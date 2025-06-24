@@ -90,7 +90,6 @@
     .cards{
         grid-template-columns: repeat(2,1fr);
     }
-    
 }
 @media screen and (max-width: 718px){
     .cards{
